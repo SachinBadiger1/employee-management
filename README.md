@@ -1,4 +1,4 @@
 # Employee Management System
-Project Status: In Development
+Project Status: Employee Module Completed
 
 A simple application to manage employee information.
